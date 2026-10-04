@@ -1,0 +1,7 @@
+{
+  "name": "OmniCalendar",
+  "description": "Seamless calendar app with Google & Outlook sync and offline event access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
